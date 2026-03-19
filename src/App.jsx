@@ -107,7 +107,7 @@ function App() {
       <header className="chat-header">
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
           <Sparkles size={24} color="var(--accent)" />
-          <h1>Gemini AI</h1>
+          <h1>Tharani AI</h1>
         </div>
         <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
           {error && <AlertCircle size={18} color="#ef4444" title={error} />}
